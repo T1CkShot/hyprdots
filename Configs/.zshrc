@@ -88,3 +88,6 @@ alias mkdir='mkdir -p'
 #Display Pokemon
 # pokemon-colorscripts --no-title -r 1,3,6
 pokemon-colorscripts -r 1,3,6
+
+# Zoxide
+eval "$(zoxide init zsh)"
