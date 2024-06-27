@@ -89,5 +89,9 @@ alias mkdir='mkdir -p'
 # pokemon-colorscripts --no-title -r 1,3,6
 pokemon-colorscripts -r 1,3,6
 
+# NVM - Node version manager
+export NVM_DIR="$HOME/.nvm"
+[ -s "/usr/share/nvm/init-nvm.sh" ] && \. "/usr/share/nvm/init-nvm.sh"
+
 # Zoxide
 eval "$(zoxide init zsh)"
