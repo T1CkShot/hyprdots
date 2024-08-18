@@ -1,11 +1,6 @@
 # --------------------------------------------------- // System
-pipewire                                               # audio/video server
-pipewire-alsa                                          # pipewire alsa client
-pipewire-audio                                         # pipewire audio client
-pipewire-jack                                          # pipewire jack client
-pipewire-pulse                                         # pipewire pulseaudio client
-gst-plugin-pipewire                                    # pipewire gstreamer client
-wireplumber                                            # pipewire session manager
+pulseaudio                                             # audio server
+pulseaudio-alsa                                        # pulseaudio alsa support
 pavucontrol                                            # pulseaudio volume control
 pamixer                                                # pulseaudio cli mixer
 networkmanager                                         # network manager
