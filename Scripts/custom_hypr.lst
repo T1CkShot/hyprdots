@@ -66,6 +66,8 @@ dolphin                                                # kde file manager
 ark                                                    # kde file archiver
 vim                                                    # terminal text editor
 code                                                   # ide text editor
+htop                                                   # resource monitor
+lazygit                                                # terminal gui for git
 
 # --------------------------------------------------- // Shell
 eza|zsh                                                # file lister for zsh
@@ -76,7 +78,6 @@ starship|fish                                          # customizable shell prom
 fastfetch                                              # system information fetch tool
 pokemon-colorscripts-git|zsh                           # display pokemon sprites
 zoxide                                                 # directory jumping
-htop                                                   # resource monitor
 
 # --------------------------------------------------- // HyDE
 hyde-cli-git                                           # cli tool to manage hyde
