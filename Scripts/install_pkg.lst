@@ -67,7 +67,6 @@ lazygit                                                # terminal gui for git
 eza|zsh                                                # file lister for zsh
 oh-my-zsh-git|zsh                                      # plugin manager for zsh
 zsh-theme-powerlevel10k-git|zsh oh-my-zsh-git          # theme for zsh
-eza|fish                                               # file lister for fish
 starship|fish                                          # customizable shell prompt
 fastfetch                                              # system information fetch tool
 pokemon-colorscripts-git|zsh                           # display pokemon sprites
@@ -75,3 +74,12 @@ zoxide                                                 # directory jumping
 
 # --------------------------------------------------- // HyDE
 hyde-cli-git                                           # cli tool to manage hyde
+discord                                                # discord app
+morgen-bin                                             # calendar and task app
+obsidian                                               # notes and knowledge base app
+neovim                                                 # vim based text editor
+spotify                                                # proprietary music streaming service
+cava                                                   # audio visualizer
+emote                                                # emoji picker gtk3
+trash-cli-git                                        # cli to manage trash files
+downgrade                                            # downgrade packages
